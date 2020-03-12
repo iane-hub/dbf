@@ -1,0 +1,19 @@
+{
+  "name": "aula1_laboratorio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iane-hub/dbf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iane-hub/dbf/issues"
+  },
+  "homepage": "https://github.com/iane-hub/dbf#readme"
+}
